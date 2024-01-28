@@ -3,4 +3,4 @@
 
 
 # will be tracked by git
--sample.env
+!sample.env
