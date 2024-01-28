@@ -1,0 +1,6 @@
+# won't be tracked by git
+*.env
+
+
+# will be tracked by git
+-sample.env
